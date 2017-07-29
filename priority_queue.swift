@@ -23,7 +23,7 @@ class priority_queue {
         array[hole] = element
     }
     func pop() -> Int? {
-        guard array.count != 0 else {
+        guard array.count > 1 else {
             return nil
         }
         let min = array[1];
