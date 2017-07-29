@@ -12,4 +12,4 @@ For swift does not have some prime structures, I try to write something.
 # Future
  * I will update my structures by using extend method in the future.
  * I will also add more powerful structures and algorithms.
- * In my view, swift is so powerful that I want to get the hang of it and make it more greater.
+ * In my view, swift is so powerful that I want to get the hang of it and make it greater.
